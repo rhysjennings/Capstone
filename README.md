@@ -1,2 +1,3 @@
 # Capstone
-Ticketmaster Capstone Project Data Analysis and Alert System
+Ticketmaster Capstone Project Alert System
+Python Data Analysis not shown due to confidential Data.
